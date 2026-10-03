@@ -1,0 +1,7 @@
+{
+  "name": "FRAUDSCOPE AI",
+  "description": "Enterprise Fraud Detection & Real-time Risk Scoring Intelligence Platform with Behavioral Customer Profiling and Model Diagnostics",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
